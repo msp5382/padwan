@@ -1,0 +1,16 @@
+{
+  "name": "padwan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "backpack-core": "^0.8.4",
+    "mock-mongoose": "^8.0.0",
+    "moment": "^2.24.0",
+    "momentjs": "^2.0.0",
+    "mongoose": "^5.9.6"
+  },
+  "scripts": {
+    "dev": "backpack"
+  }
+}
