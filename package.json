@@ -6,7 +6,7 @@
   "dependencies": {
     "backpack-core": "^0.8.4",
     "mock-mongoose": "^8.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "momentjs": "^2.0.0",
     "mongoose": "^5.9.6"
   },
